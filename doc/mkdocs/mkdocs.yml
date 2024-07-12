@@ -51,8 +51,8 @@ nav:
       - 'Authentication' : 'doc/crossbar/authentication.md'
 #    - 'Extending Kazoo':
 #       - 'Authorization' : 'doc/extending/authz.md'
-#   - 'Provisioner':
-#       - 'doc/provisioner/README.md'
+  - 'Provisioner':
+      - 'doc/provisioner/README.md'
   - 'Appendix':
 #     - 'Advanced-Concepts' : 'doc/intro/advanced-concepts.md'
     - 'Basic-SIPp' : 'doc/config/basic-sipp.md'
@@ -97,7 +97,7 @@ nav:
     - 'Kazoo-Numberlifecycle' : 'doc/carrier-numbers/kazoo-numberlifecycle.md'
     - 'Kazoo-NumbersDocsI' : 'doc/carrier-numbers/kazoo-numberdoc.md'
     - 'Kazoo-OpenSource' : 'doc/kazoo/open-source.md'
-    # - 'KazooUI-Optimize' : 'doc/kazoo/optimize-kazoo-ui.md'
+    - 'KazooUI-Optimize' : 'doc/kazoo/optimize-kazoo-ui.md'
 #     - 'Kazoo-Provider' : 'doc/carrier-numbers/kazoo-provider.md'
     - 'Kazoo-RateEngine' : 'doc/kazoo/rating-engine.md'
     - 'Kazoo-Routing' : 'doc/carrier-numbers/routing.md'
@@ -111,7 +111,7 @@ nav:
     - 'Lineman-Expect' : 'doc/config/lineman-expect.md'
     - 'Lineman-Test' : 'doc/config/lineman-test.md'
 #     - 'Load-Failure' : 'doc/intro/load-failure.md'
-    # - 'Login-NoApps' : 'doc/operation/login-noapps.md'
+    - 'Login-NoApps' : 'doc/operation/login-noapps.md'
 #     - 'Milliwat-Intro' : 'doc/intro/milliwatt.md'
     - 'Milliwatt-Config' : 'doc/config/milliwatt-config.md'
     - 'Monitor-Maintain' : 'doc/config/monitor-maintain.md'

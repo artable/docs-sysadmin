@@ -1,7 +1,6 @@
-# The Number Document
+# Number Document
 
 The number document is the only document used to route inbound calls that originate from a source not associated with an account such as a carrier.  Any number that matches the `reconcile_regex`, in the configuration, will generate a number document in the associated database when saved.  If the database is not present it will be created the when required. The UI uses a numbers document that is stored in the account database to display the numbers which is kept in synchronization with changes by the number manager.  If you make manual changes you will need to also update this document.
-
 
 ## Database
 
